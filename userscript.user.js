@@ -25,7 +25,8 @@ if (window.top !== window.self) {
               // img.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
               // img.style = "position: absolute;left: 1859px;top: 618px;image-rendering: pixelated;width: 33px;height: 33px;";
               // img.style = "position: absolute;left: 1826px;top: 548px;image-rendering: pixelated;width: 33px;height: 33px;";
-              img.style = "position: absolute;left: 1873px;top: 760px;image-rendering: pixelated;width: 33px;height: 33px;";
+              // img.style = "position: absolute;left: 1873px;top: 760px;image-rendering: pixelated;width: 33px;height: 33px;";
+              img.style = "position: absolute;left: 1561px;top: 446px;image-rendering: pixelated;width: 33px;height: 33px;";
               
               console.log(img);
               return img;
